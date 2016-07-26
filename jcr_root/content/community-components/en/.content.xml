@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0"
+    jcr:primaryType="cq:Page">
+    <tagcloud/>
+    <jcr:content/>
+    <activitystreams/>
+    <calendar/>
+    <comments/>
+    <communityactivitylist/>
+    <communitygroupmemberlist/>
+    <filelibrary/>
+    <followers/>
+    <followings/>
+    <follows/>
+    <forum/>
+    <journal/>
+    <messaging/>
+    <moderation/>
+    <notifications/>
+    <qna/>
+    <rating/>
+    <reviews/>
+    <search/>
+    <subscriptions/>
+    <userdetails/>
+    <userprofile/>
+    <voting/>
+    <livefyremediawall/>
+    <livefyrecomments/>
+    <livefyremap/>
+    <livefyreliveblog/>
+    <livefyremosaic/>
+    <livefyrecard/>
+    <livefyrecarousel/>
+    <livefyrechat/>
+</jcr:root>
